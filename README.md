@@ -20,4 +20,4 @@ For more details and installation guide on the processing algorithm of the PFHX 
 
 ## Usage
 
-If you download the entire repository as one folder, the code should work properly. We are currently working to make the code run in Google Colab.
+If you download the entire repository as one folder (zip file), you should be able to run the codes properly. We are currently working to make the code run in Google Colab.
